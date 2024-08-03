@@ -1,0 +1,1 @@
+alert('Esta es una alerta desde un archivo externo.');
